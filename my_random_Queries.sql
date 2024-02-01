@@ -10,7 +10,7 @@ LEFT JOIN
     departments d
 ON
     e.department_id = d.department_id;
-
+-------------------------------------------------------------------------------------
 SELECT 
     FIRST_NAME AS NOME,
     LAST_NAME AS SOBRENOME,
